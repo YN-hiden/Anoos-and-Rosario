@@ -3,7 +3,6 @@
 ### A Comparative Study for Monitoring Government Accountability
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Framework](https://img.shields.io/badge/Framework-PyTorch-orange.svg)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-yellow.svg)
 
@@ -87,7 +86,5 @@ Any errors or shortcomings in this work are entirely our own.
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
 
